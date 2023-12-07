@@ -4,3 +4,6 @@
 [submodule "src/drobo_interfaces"]
 	path = src/drobo_interfaces
 	url = https://github.com/nityc-d-robo/drobo_interfaces
+[submodule "src/run_motor"]
+	path = src/run_motor
+	url = https://github.com/seiriseitonn/run_motor
