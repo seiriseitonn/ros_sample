@@ -1,0 +1,6 @@
+[submodule "src/dmotor_ros"]
+	path = src/dmotor_ros
+	url = https://github.com/nityc-d-robo/dmotor_ros
+[submodule "src/drobo_interfaces"]
+	path = src/drobo_interfaces
+	url = https://github.com/nityc-d-robo/drobo_interfaces
